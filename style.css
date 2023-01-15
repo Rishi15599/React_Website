@@ -1,0 +1,131 @@
+.img{
+    height: 30px;
+    width: 200px;
+    left: 100px;
+    position: absolute;
+    top: 15px;
+    left: 80px;
+}
+.Techonology{
+    height: 40px;
+    width: 150px;
+    position: absolute;
+    top: 10px;
+    right: 830px;
+}
+.level{
+    height: 40px;
+    width: 100px;
+    position: absolute;
+    top: 10px;
+    right: 720px;
+}
+.fromDate{
+    height: 36px;
+    width: 120px;
+    position: absolute;
+    top: 10px;
+    right: 585px;
+}
+.toDate{
+    height: 36px;
+    width: 120px;
+    position: absolute;
+    top: 10px;
+    right: 450px;
+}
+.search{
+    height: 40px;
+    width: 300px;
+    position: absolute;
+    top: 10px;
+    right: 140px;
+}
+.searchbutton{
+    height: 40px;
+    width: 80px;
+    background-color: #ffa408;
+    border: 1px solid #ffc008;
+    border-radius: 4px;
+    color: #fff;
+    position: absolute;
+    top: 10px;
+    right: 50px;i
+}
+.uploadYourQuestions{
+    color: #086288;
+    position: absolute;
+    left: 120px;
+    top: 80px;
+}
+.submit{
+    height: 40px;
+    width: 80px;
+    background-color: #ffa408;
+    border: 1px solid #ffc008;
+    border-radius: 4px;
+    color: #fff;
+    position: absolute;
+    bottom: 180px;
+    right: 120px;
+}
+.CondidateName{
+    height: 45px;
+    width: 280px;
+    position: absolute;
+    left: 120px;
+    top: 175px;
+}
+.Department{
+    height: 50px;
+    width: 290px;
+    position: absolute;
+    left: 430px;
+    top: 175px;
+}
+.ClinentName{
+    height: 45px;
+    width: 280px;
+    position: absolute;
+    left: 740px;
+    top: 175px;
+}
+.Technology{
+    height: 50px;
+    width: 300px;
+    position: absolute;
+    left: 1050px;
+    top: 175px;
+}
+.question{
+    height: 50px;
+    width: 900px;
+    position: absolute;
+    left: 120px;
+    top: 240px;
+}
+.Difficulty{
+    height: 50px;
+    width: 300px;
+    position: absolute;
+    left: 1050px;
+    top: 240px;
+}
+.answer{
+    height: 75px;
+    width: 900px;
+    position: absolute;
+    left: 120px;
+    top: 310px;
+}
+.addnew{
+    height: 40px;
+    width: 100px;
+    background-color: #ffa408;
+    border: 1px solid #ffc008;
+    border-radius: 4px;
+    color: #fff;
+    position: absolute;
+    top: 375px;
+    right: 386px;
+}
